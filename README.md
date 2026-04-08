@@ -17,6 +17,7 @@ saved deep learning model.
 ---
 
 ##  Project Structure
+```bash
 py-churn-analysis/
 ├── Telco_customer_churn.xlsx   ← Dataset (included in the repository)
 ├── churn_analaysis.ipynb       ← Main analysis and modelling notebook
@@ -24,7 +25,7 @@ py-churn-analysis/
 ├── good model.keras            ← Saved trained model (Keras native format)
 ├── requirements.txt            ← Full list of dependencies
 └── .gitignore
-
+```
 ---
 
 ##  Dataset
