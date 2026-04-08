@@ -60,7 +60,7 @@ account information, subscribed services, and whether the customer churned.
 ### Prerequisites
 
 - **Python 3.8+** — [python.org](https://www.python.org/downloads/)
-- **pip** — comes bundled with Python
+- **pip** 
 - **Jupyter Notebook or JupyterLab** — to open and run the notebook
 
 ---
@@ -110,6 +110,6 @@ The notebook will:
 
 ---
 
-## 🛡️ License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
