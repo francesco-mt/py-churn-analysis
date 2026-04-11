@@ -80,9 +80,6 @@ python -m venv .venv
 
 # Activate it — Windows
 .venv\Scripts\activate
-
-# Activate it — macOS/Linux
-source .venv/bin/activate
 ```
 
 ---
